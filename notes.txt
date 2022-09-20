@@ -1,0 +1,27 @@
+BENEFITS OF ANGULAR
+
+- pre-packages
+- adheres to a pattern
+- OOP (object-oriented programming)
+- observable pattern
+  - state management
+- authentication
+  - login/sign up
+- lazy loading (only loads the current page being utilized)
+
+- ng cli
+  - ng commands
+    - ng new app-name (creates app in strict mode)
+    - ng new app-name --no-strict (creates app in no strict mode)
+    - ng serve (similar to live server) (-o option opens a new tab on browser automatically)
+      - includes generators (generates files/components)
+    - ng build (compresses and builds folder needed to host on www)
+    - ng test (runs every testing file in a project)
+
+- app-new
+  - src
+  - node-modules (holds dependency packages)
+  - angular.json (setup styles)
+  - package.json (dependencies as JSON)
+  - eslingconfig.json (rules)
+  - tsconfig (typescript config file)
